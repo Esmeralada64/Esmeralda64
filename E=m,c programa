@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOW32mtO+fUrj8/Qli86VmL",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Esmeralada64/Esmeralda64/blob/main/E%3Dm%2Cc%20programa\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "_YhVuGnJG55b"
+      },
+      "outputs": [],
+      "source": [
+        "Angela Esmeralda Ramgel Gaytan\n",
+        "tecnologico regional de sanluis potosi fundamento de programacion\n",
+        "jueves 2 de octubre del 2025\n",
+        "programa que calcula la equivalencia entre masa y energia"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"programa que calcule la equivalenci entre masa y energia\")\n",
+        "m=float(INPUT)(ingresa la masa en kg)\n",
+        "c=float(INPUT)(*Ingresa la velocidad en m/s*)\n",
+        "E=m*c**2"
+      ],
+      "metadata": {
+        "id": "tUSSAiO6K5hr"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
