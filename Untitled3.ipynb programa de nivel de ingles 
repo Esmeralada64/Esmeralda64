@@ -1,0 +1,56 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPl5nrTQRdLvcMoTJXkf0aT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Esmeralada64/Esmeralda64/blob/main/Untitled3.ipynb%20programa%20de%20nivel%20de%20ingles%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Programa que realice un algoritmo que de acuerdo a los datos de nivel de ingles deA1,A2,B1,B2,C1 Calificacion Mayor: 8.0 Determine si es admitido o rechazado un aspirante Bajo nivelingles Bajo pomedio"
+      ],
+      "metadata": {
+        "id": "Ty9D7WvdOvdX"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "N1=int(inout(\"ingresa su nivel de ingles 1=A1,2=A2,3=B1,4=B2,5=C1\"))\n",
+        "Prom= loat(input(\"ingresa tu promedio\"))\n",
+        "if N1>=3 and Prom>=8:\n",
+        "  print(\"admitido\")\n",
+        "else:\n",
+        "  print(\"rechazado\")\n",
+        ""
+      ],
+      "metadata": {
+        "id": "lU1vkSGRPwBr"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
